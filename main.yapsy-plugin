@@ -1,0 +1,9 @@
+[Core]
+Name = Plugin 1
+Module = plugin1
+
+[Documentation]
+Author = Ahmed BARGADY
+Version = 0.1
+Website = https://ahmedbargady.me
+Description = Test plugin for sonic new arch
